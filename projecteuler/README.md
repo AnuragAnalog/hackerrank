@@ -4,6 +4,10 @@ Original Problem are at the link: https://projecteuler.net/
 
 This sub directory contains solutions to the Questions in project Euler compete.
 
+Solutions to the original ProjectEuler problems are in one of my other repository.
+
+Repo name -> [project_euler](https://github.com/AnuragAnalog/project_euler)
+
 ## Project Euler #1: Multiples of 3 and 5
 
 ### Statement
@@ -70,3 +74,30 @@ Next T lines will contain an integer N.
 ### Output Format
 
 Print the values corresponding to each test case.
+
+## Project Euler #42: Coded triangle numbers
+
+### Statement
+
+The nth term of a sequence of triangle numbers is given by,
+
+    tn = n(n+1)/2
+
+so the first ten triangle numbers are:
+
+    1, 3, 6, 10, 15, 21, 28, 36, 55, .......
+
+You are given an integer. If it is a triangular number tn, print the term n corresponding to this number, else print -1
+
+### Input Format
+
+First line of input contains an integer T denoting the number of testcases. Each of the next T lines contains an integer.
+
+### Constraints
+
+* 1 ≤ T ≤ 10^5
+* 1s ≤ tn ≤ 10^10
+
+### Output Format
+
+Print the answer corresponding to each test case in a new line. 
