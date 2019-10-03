@@ -51,6 +51,28 @@ First line contains T that denotes the number of test cases. This is followed by
 
 Print the required answer for each test case.
 
+## Project Euler #16: Power digit sum
+
+### Statement
+
+2^9 = 512 and the sum of its digits is 5 + 1 + 2 = 8.
+
+What is the sum of the digits of the number 2^N?
+
+### Input Format
+
+The first line contains an integer T, i.e., number of test cases.
+Next T lines will contain an integer N.
+
+### Constraints
+
+* 1 ≤ T ≤ 100
+* 1 ≤ N ≤ 10^4
+
+### Output Format
+
+Print the values corresponding to each test case.
+
 ## Project Euler #20: Factorial digit sum
 
 ### Statement
