@@ -1,0 +1,11 @@
+
+Q) In a single toss of 2 fair (evenly-weighted) six-sided dice, 
+find the probability that the values rolled by each die will 
+be different and the two dice have a sum of 6.
+
+a) 1 / 9
+b) 1 / 6
+c) 2 / 3
+d) 5 / 6
+
+Answer is: a

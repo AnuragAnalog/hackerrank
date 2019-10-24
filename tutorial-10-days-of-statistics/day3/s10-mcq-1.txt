@@ -1,0 +1,9 @@
+
+Q) In a single toss of 2vfair (evenly-weighted) six-sided dice, find the probability that their sum will be at most 9.
+
+a) 2 / 3
+b) 5 / 6
+c) 1 / 4
+d) 1 / 6
+
+Answer is: b 

@@ -1,0 +1,9 @@
+
+Q) Suppose a family has 2 children, one of which is a boy. What is the probability that both children are boys?
+
+a) 1 / 3
+b) 1 / 2
+c) 2 / 3
+d) 1 / 9
+
+Answer is: a
