@@ -1,54 +1,53 @@
 # Directory Map
-=================
 
 ## Databases
 
 * BST
-    * [CSV file](https://github.com/AnuragAnalog/hackerrank/tree/master/practise-dbms/databases/.csv)
+    * [CSV file](https://github.com/AnuragAnalog/hackerrank/tree/master/practise-dbms/databases/bst.csv)
 
-    * [SQL file](https://github.com/AnuragAnalog/hackerrank/tree/master/practise-dbms/databases/.sql)
+    * [SQL file](https://github.com/AnuragAnalog/hackerrank/tree/master/practise-dbms/databases/bst.sql)
 
-* BST
-    * [CSV file](https://github.com/AnuragAnalog/hackerrank/tree/master/practise-dbms/databases/.csv)
+* CITY
+    * [CSV file](https://github.com/AnuragAnalog/hackerrank/tree/master/practise-dbms/databases/city.csv)
 
-    * [SQL file](https://github.com/AnuragAnalog/hackerrank/tree/master/practise-dbms/databases/.sql)
+    * [SQL file](https://github.com/AnuragAnalog/hackerrank/tree/master/practise-dbms/databases/city.sql)
 
-* BST
-    * [CSV file](https://github.com/AnuragAnalog/hackerrank/tree/master/practise-dbms/databases/.csv)
+* CITY1
+    * [CSV file](https://github.com/AnuragAnalog/hackerrank/tree/master/practise-dbms/databases/city1.csv)
 
-    * [SQL file](https://github.com/AnuragAnalog/hackerrank/tree/master/practise-dbms/databases/.sql)
+    * [SQL file](https://github.com/AnuragAnalog/hackerrank/tree/master/practise-dbms/databases/city1.sql)
 
-* BST
-    * [CSV file](https://github.com/AnuragAnalog/hackerrank/tree/master/practise-dbms/databases/.csv)
+* COUNTRY
+    * [CSV file](https://github.com/AnuragAnalog/hackerrank/tree/master/practise-dbms/databases/country.csv)
 
-    * [SQL file](https://github.com/AnuragAnalog/hackerrank/tree/master/practise-dbms/databases/.sql)
+    * [SQL file](https://github.com/AnuragAnalog/hackerrank/tree/master/practise-dbms/databases/country.sql)
 
-* BST
-    * [CSV file](https://github.com/AnuragAnalog/hackerrank/tree/master/practise-dbms/databases/.csv)
+* EMPLOYEE
+    * [CSV file](https://github.com/AnuragAnalog/hackerrank/tree/master/practise-dbms/databases/employee.csv)
 
-    * [SQL file](https://github.com/AnuragAnalog/hackerrank/tree/master/practise-dbms/databases/.sql)
+    * [SQL file](https://github.com/AnuragAnalog/hackerrank/tree/master/practise-dbms/databases/employee.sql)
 
-* BST
-    * [CSV file](https://github.com/AnuragAnalog/hackerrank/tree/master/practise-dbms/databases/.csv)
+* EMPLOYEE1
+    * [CSV file](https://github.com/AnuragAnalog/hackerrank/tree/master/practise-dbms/databases/employee1.csv)
 
-    * [SQL file](https://github.com/AnuragAnalog/hackerrank/tree/master/practise-dbms/databases/.sql)
+    * [SQL file](https://github.com/AnuragAnalog/hackerrank/tree/master/practise-dbms/databases/employee1.sql)
 
-* BST
-    * [CSV file](https://github.com/AnuragAnalog/hackerrank/tree/master/practise-dbms/databases/.csv)
+* OCCUPATION
+    * [CSV file](https://github.com/AnuragAnalog/hackerrank/tree/master/practise-dbms/databases/occupation.csv)
 
-    * [SQL file](https://github.com/AnuragAnalog/hackerrank/tree/master/practise-dbms/databases/.sql)
+    * [SQL file](https://github.com/AnuragAnalog/hackerrank/tree/master/practise-dbms/databases/occupation.sql)
 
-* BST
-    * [CSV file](https://github.com/AnuragAnalog/hackerrank/tree/master/practise-dbms/databases/.csv)
+* STATION
+    * [CSV file](https://github.com/AnuragAnalog/hackerrank/tree/master/practise-dbms/databases/station.csv)
 
-    * [SQL file](https://github.com/AnuragAnalog/hackerrank/tree/master/practise-dbms/databases/.sql)
+    * [SQL file](https://github.com/AnuragAnalog/hackerrank/tree/master/practise-dbms/databases/station.sql)
 
-* BST
-    * [CSV file](https://github.com/AnuragAnalog/hackerrank/tree/master/practise-dbms/databases/.csv)
+* STUDENTS
+    * [CSV file](https://github.com/AnuragAnalog/hackerrank/tree/master/practise-dbms/databases/students.csv)
 
-    * [SQL file](https://github.com/AnuragAnalog/hackerrank/tree/master/practise-dbms/databases/.sql)
+    * [SQL file](https://github.com/AnuragAnalog/hackerrank/tree/master/practise-dbms/databases/students.sql)
 
-* BST
-    * [CSV file](https://github.com/AnuragAnalog/hackerrank/tree/master/practise-dbms/databases/.csv)
+* TRIANGLES
+    * [CSV file](https://github.com/AnuragAnalog/hackerrank/tree/master/practise-dbms/databases/triangles.csv)
 
-    * [SQL file](https://github.com/AnuragAnalog/hackerrank/tree/master/practise-dbms/databases/.sql)
+    * [SQL file](https://github.com/AnuragAnalog/hackerrank/tree/master/practise-dbms/databases/triangles.sql)
