@@ -3,10 +3,10 @@ use hackerrank;
 
 create table if not exists EMPLOYEE1
 (
-    employee_id int,
-    name varchar(20),
-    months int,
-    salary int
+    EMPLOYEE_ID int,
+    NAME varchar(20),
+    MONTHS int,
+    SALARY int
 );
 
 insert into EMPLOYEE1 values (330,"Rose",5,2248);

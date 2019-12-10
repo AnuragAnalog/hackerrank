@@ -3,8 +3,8 @@ use hackerrank;
 
 create table if not exists OCCUPATION
 (
-    Name char(50) primary key,
-    Occupation char(50)
+    NAME char(50) primary key,
+    OCCUPATION char(50)
 );
 
 insert into OCCUPATION values ("Ashley","Professor");
