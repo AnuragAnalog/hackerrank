@@ -17,6 +17,11 @@
 
     * [SQL file](https://github.com/AnuragAnalog/hackerrank/tree/master/practise-dbms/databases/city1.sql)
 
+* CITY2
+    * [CSV file](https://github.com/AnuragAnalog/hackerrank/tree/master/practise-dbms/databases/city2.csv)
+
+    * [SQL file](https://github.com/AnuragAnalog/hackerrank/tree/master/practise-dbms/databases/city2.sql)
+
 * COUNTRY
     * [CSV file](https://github.com/AnuragAnalog/hackerrank/tree/master/practise-dbms/databases/country.csv)
 
@@ -59,9 +64,9 @@
 * [Binary Search Tree](https://github.com/AnuragAnalog/hackerrank/blob/master/practise-dbms/solutions/binary-search-tree-1.sql)
 * [Earnings of Employees](https://github.com/AnuragAnalog/hackerrank/blob/master/practise-dbms/solutions/earnings-of-employees.sql)
 * [More than 75 marks](https://github.com/AnuragAnalog/hackerrank/blob/master/practise-dbms/solutions/more-than-75-marks.sql)
-* [Revising Aggregations Sum](https://github.com/AnuragAnalog/hackerrank/blob/master/practise-dbms/solutions/revising-aggregation-sum.sql)
-* [Revising Aggregations the Average function](https://github.com/AnuragAnalog/hackerrank/blob/master/practise-dbms/solutions/revising-aggregation-the-average-function.sql)
-* [Revising Aggregations the Count function](https://github.com/AnuragAnalog/hackerrank/blob/master/practise-dbms/solutions/revising-aggregation-the-count-function.sql)
+* [Revising Aggregations - The Sum Function](https://github.com/AnuragAnalog/hackerrank/blob/master/practise-dbms/solutions/revising-aggregation-sum.sql)
+* [Revising Aggregations - Averages](https://github.com/AnuragAnalog/hackerrank/blob/master/practise-dbms/solutions/revising-aggregation-the-average-function.sql)
+* [Revising Aggregations - The Count Function](https://github.com/AnuragAnalog/hackerrank/blob/master/practise-dbms/solutions/revising-aggregation-the-count-function.sql)
 * [Average Population of each Continent](https://github.com/AnuragAnalog/hackerrank/blob/master/practise-dbms/solutions/average-population-of-each-continent.sql)
 * [Weather Observation Station 1](https://github.com/AnuragAnalog/hackerrank/blob/master/practise-dbms/solutions/weather-observation-station-1.sql)
 * [Weather Observation Station 2](https://github.com/AnuragAnalog/hackerrank/blob/master/practise-dbms/solutions/weather-observation-station-2.sql)
@@ -83,7 +88,15 @@
 * [Weather Observation Station 18](https://github.com/AnuragAnalog/hackerrank/blob/master/practise-dbms/solutions/weather-observation-station-18.sql)
 * [Weather Observation Station 19](https://github.com/AnuragAnalog/hackerrank/blob/master/practise-dbms/solutions/weather-observation-station-19.sql)
 * [Weather Observation Station 20](https://github.com/AnuragAnalog/hackerrank/blob/master/practise-dbms/solutions/weather-observation-station-20.sql)
-* [What Type of Triangle](https://github.com/AnuragAnalog/hackerrank/blob/master/practise-dbms/solutions/what-type-of-triangle.sql)
-* [The Pads](https://github.com/AnuragAnalog/hackerrank/blob/master/practise-dbms/solutions/the-pads.sql)
-* [Salary of Employees](https://github.com/AnuragAnalog/hackerrank/blob/master/practise-dbms/solutions/salary-of-employees.sql)
-* [Name of employees](https://github.com/AnuragAnalog/hackerrank/blob/master/practise-dbms/solutions/name-of-employees.sql)
+* [Type of Triangle](https://github.com/AnuragAnalog/hackerrank/blob/master/practise-dbms/solutions/what-type-of-triangle.sql)
+* [Draw The Triangle 1](https://github.com/AnuragAnalog/hackerrank/blob/master/practise-dbms/solutions/draw-the-triangle-1.sql)
+* [Draw The Triangle 2](https://github.com/AnuragAnalog/hackerrank/blob/master/practise-dbms/solutions/draw-the-triangle-2.sql)
+* [The PADS](https://github.com/AnuragAnalog/hackerrank/blob/master/practise-dbms/solutions/the-pads.sql)
+* [Employee Salaries](https://github.com/AnuragAnalog/hackerrank/blob/master/practise-dbms/solutions/salary-of-employees.sql)
+* [Employee Names](https://github.com/AnuragAnalog/hackerrank/blob/master/practise-dbms/solutions/name-of-employees.sql)
+* [Japanese Cities' Attribute](https://github.com/AnuragAnalog/hackerrank/blob/master/practise-dbms/solutions/japanese-cities-attributes.sql)
+* [Japanese Cities' Name](https://github.com/AnuragAnalog/hackerrank/blob/master/practise-dbms/solutions/japanese-cities-name.sql)
+* [Revising the Select Query I](https://github.com/AnuragAnalog/hackerrank/blob/master/practise-dbms/solutions/revising-the-select-query.sql)
+* [Revising the Select Query II](https://github.com/AnuragAnalog/hackerrank/blob/master/practise-dbms/solutions/revising-the-select-query-2.sql)
+* [Select All](https://github.com/AnuragAnalog/hackerrank/blob/master/practise-dbms/solutions/select-all-sql.sql)
+* [Select By ID](https://github.com/AnuragAnalog/hackerrank/blob/master/practise-dbms/solutions/select-by-id.sql)
