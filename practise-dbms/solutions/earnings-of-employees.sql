@@ -1,4 +1,4 @@
--- Database Used: employee1
+-- Database Used: EMPLOYEE1(employee1.sql)
 
 select months*salary, count(*)
 from Employee
