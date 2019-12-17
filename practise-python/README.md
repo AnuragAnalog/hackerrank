@@ -11,3 +11,5 @@ This sub directory contains solutions to the Questions in python practise sectio
 *Sets*
 
 *Itertools*
+
+*Strings*
