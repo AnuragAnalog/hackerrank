@@ -51,3 +51,43 @@
 * [Designer Door Mat](https://github.com/AnuragAnalog/hackerrank/blob/master/practise-python/strings/designer-door-mat.py)
 
 * [String Formatting](https://github.com/AnuragAnalog/hackerrank/blob/master/practise-python/strings/string-formatting.py)
+
+## Sets
+
+* [Introduction to Sets](https://github.com/AnuragAnalog/hackerrank/blob/master/practise-python/sets/introduction-to-sets.py)
+
+* [No Idea!](https://github.com/AnuragAnalog/hackerrank/blob/master/practise-python/sets/no-idea.py)
+
+* [Symmetric Difference](https://github.com/AnuragAnalog/hackerrank/blob/master/practise-python/sets/symmetric_difference.py)
+
+* [Set.add()](https://github.com/AnuragAnalog/hackerrank/blob/master/practise-python/sets/py-set-add.py)
+
+* [Set.discard(), .remove() & .pop()](https://github.com/AnuragAnalog/hackerrank/blob/master/practise-python/sets/py-set-discard-remove-pop.py)
+
+* [Set .union() Operation](https://github.com/AnuragAnalog/hackerrank/blob/master/practise-python/sets/py-set-union.py)
+
+* [Set .intersection() Operation](https://github.com/AnuragAnalog/hackerrank/blob/master/practise-python/sets/py-set-intersection.py)
+
+* [Set .difference() Operation](https://github.com/AnuragAnalog/hackerrank/blob/master/practise-python/sets/py-set-difference.py)
+
+* [Set .symmetric_difference() Operation](https://github.com/AnuragAnalog/hackerrank/blob/master/practise-python/sets/py-set-symmetric_difference.py)
+
+* [Set Mutations](https://github.com/AnuragAnalog/hackerrank/blob/master/practise-python/sets/py-set-mutations.py)
+
+* [The Captain's Room](https://github.com/AnuragAnalog/hackerrank/blob/master/practise-python/sets/the-captain-room.py)
+
+* [Check Subset](https://github.com/AnuragAnalog/hackerrank/blob/master/practise-python/sets/py-check-subsets.py)
+
+* [Check Strict Superset](https://github.com/AnuragAnalog/hackerrank/blob/master/practise-python/sets/py-check-strict-supersets.py)
+
+## Itertools
+
+* [itertools.product()](https://github.com/AnuragAnalog/hackerrank/blob/master/practise-python/itertools/itertools-product.py)
+
+* [itertools.permutations()](https://github.com/AnuragAnalog/hackerrank/blob/master/practise-python/itertools/itertools-permutations.py)
+
+* [itertools.combinations()](https://github.com/AnuragAnalog/hackerrank/blob/master/practise-python/itertools/itertools-combinations.py)
+
+* [itertools.combinations_with_replacement()](https://github.com/AnuragAnalog/hackerrank/blob/master/practise-python/itertools/itertools-combinations-with-replacement.py)
+
+* [Compress the String!](https://github.com/AnuragAnalog/hackerrank/blob/master/practise-python/itertools/compress-the-string.py)
