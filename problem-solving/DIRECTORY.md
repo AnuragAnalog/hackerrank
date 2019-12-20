@@ -22,4 +22,24 @@
 
 * [Birthday Cake Candles](https://github.com/AnuragAnalog/hackerrank/blob/master/problem-solving/c/warmup/birthday-cake-candles.c)
 
+### Implementation
+
+* [Grading](https://github.com/AnuragAnalog/hackerrank/tree/master/problem-solving/c/implementation/grading.c)
+
+* [Apple and Orange](https://github.com/AnuragAnalog/hackerrank/tree/master/problem-solving/c/implementation/apple-and-orange.c)
+
+* [Kangaroo](https://github.com/AnuragAnalog/hackerrank/tree/master/problem-solving/c/implementation/kangaroo.c)
+
+* [Between Two Sets](https://github.com/AnuragAnalog/hackerrank/tree/master/problem-solving/c/implementation/between-two-sets.c)
+
+* [Breaking the Records](https://github.com/AnuragAnalog/hackerrank/tree/master/problem-solving/c/implementation/breaking-best-and-worst-records.c)
+
+* [Divisible Sum Pairs](https://github.com/AnuragAnalog/hackerrank/tree/master/problem-solving/c/implementation/divisible-sum-pairs.c)
+
+* [Migratory Birds](https://github.com/AnuragAnalog/hackerrank/tree/master/problem-solving/c/implementation/migratory-birds.c)
+
+* [Day of the Programmer](https://github.com/AnuragAnalog/hackerrank/tree/master/problem-solving/c/implementation/day-of-the-programmer.c)
+
+* [Bon Appetit](https://github.com/AnuragAnalog/hackerrank/tree/master/problem-solving/c/implementation/bon-appetit.c)
+
 ## C++
