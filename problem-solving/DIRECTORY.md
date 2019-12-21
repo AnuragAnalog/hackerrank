@@ -42,4 +42,8 @@
 
 * [Bon Appetit](https://github.com/AnuragAnalog/hackerrank/tree/master/problem-solving/c/implementation/bon-appetit.c)
 
+* [Electronics Shop](https://github.com/AnuragAnalog/hackerrank/tree/master/problem-solving/c/implementation/electronics-shop.c)
+
+* [Cats and a Mouse](https://github.com/AnuragAnalog/hackerrank/tree/master/problem-solving/c/implementation/cats-and-a-mouse.c)
+
 ## C++
