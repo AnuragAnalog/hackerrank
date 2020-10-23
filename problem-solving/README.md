@@ -8,6 +8,8 @@ This sub directory contains solutions to the Questions in problem solving sectio
 
 * C++
 
+* Java
+
 **Sub-domains**
 
 * *Warmup*
