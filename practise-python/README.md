@@ -2,7 +2,7 @@
 
 This sub directory contains solutions to the Questions in python practise section.
 
-**Sub-domains**
+**Sub-domains:**
 
 *Introduction*
 
